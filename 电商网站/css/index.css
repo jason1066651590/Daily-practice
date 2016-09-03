@@ -1,0 +1,96 @@
+.sidebar-left{
+	width: 214px;
+	padding-bottom: 70px;
+	float: left;
+}
+
+.sidebar-right{
+	width: 742px;
+	float: right;
+}
+
+.first{
+	border-bottom: 2px solid #000;
+	padding-bottom: 10px;
+}
+
+.panel-top img{
+	width: 160px;
+	height: 160px; 
+	display: inline;
+	margin-left: 30px;
+}
+
+hr{
+	border:1px dashed #f0f0f0;
+}
+
+.one{
+	font-size: 18px;
+	margin-right: 22px;
+	margin-bottom: 16px;
+	color: #8e8f8a;
+}	
+
+.two{
+	font-size: 24px;
+	color: #fec045;
+}
+
+.text1{
+	margin-bottom: 16px;
+}
+
+.three{
+	color: #8e8f8a;
+	margin-right: 24px;
+}
+
+.four{
+	color: #8e8f8a;
+}
+
+.text1 img{
+	float: right;
+}
+
+.img1{
+	margin-top: -20px;
+	margin-bottom: 26px;
+}
+
+.pra5 p{
+	font-size: 14px;
+	color: #8e8f8a;
+	display: inline;
+	line-height: 30px;
+}
+
+.bulid{
+	display: inline;
+	float: left;
+}
+
+.sidebar-right .sixth a{
+	color: #666666;
+	float: left;
+	margin-right: 30px;
+	margin-left: 5px;
+	line-height: 10px;
+	margin-bottom: 20px;
+}
+
+.sixth a:hover{
+	color: #a55301;
+}
+
+.sixth{
+	height: 52px;
+	font-size: 14px;
+}
+
+.second{
+	margin-top: 40px;
+	border-bottom: 2px solid #000;
+	padding-bottom: 10px;
+}

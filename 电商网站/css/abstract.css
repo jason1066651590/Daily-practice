@@ -1,0 +1,44 @@
+.panel{
+	padding-top: 36px;
+}
+
+.panel .panel-pra{
+	font-size: 14px;
+	padding-bottom: 7px;
+	border-bottom: 2px solid #a55301; 
+}
+
+.panel-pra1{
+	margin-top: 20px;
+	line-height: 26px;
+	margin-bottom: 78px;
+}
+
+.panel-pra1 img{
+	margin-top: -330px;
+}
+
+.panel-pra1 p{
+	line-height: 30px;
+	font-size: 12px;
+}
+
+.panel .panel-pra2 a{
+	color: #666666;
+	float: left;
+	margin-right: 30px;
+	margin-left: 15px;
+}
+
+.panel-pra2 a:hover{
+	color: #a55301;
+}
+
+.panel-pra2{
+	height: 52px;
+	font-size: 14px;
+}
+
+.panel-par1{
+	position: relative;
+}

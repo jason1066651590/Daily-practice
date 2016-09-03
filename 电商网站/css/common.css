@@ -1,0 +1,94 @@
+.begin{
+	height: 36px;
+	background-color: #f0f0f0;
+}
+
+.public-container{
+	width: 974px;
+	position: relative;
+	margin: 0 auto;
+}
+
+.public-header{
+	height: 100px;
+}
+
+.public-header .header-logo{
+	float: left;	
+	margin-top: 30px;
+}
+.public-header .header-logo a{
+	height: 40px;
+	width: 160px;
+	background: url("../images/logo.png");
+}
+
+.public-header .header-nav{
+	float: right;
+	font-size: 18px;
+}
+
+.public-header .header-nav .item{
+	float: left;
+	margin-top: 58px;
+	margin-left: 30px;
+}
+
+.public-header .header-nav .item a:hover{
+	color: #a55301;
+	border-bottom: 1px solid #a55301;
+	padding-bottom: 18px
+}
+
+.public-header .header-nav a{
+	color: #666666;	
+}
+
+.index-baner{
+	padding-top: 10px;
+}
+
+.public-footer{
+	height: 132px;
+	background-color: #f0f0f0;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.public-footer .footer-item a{
+	color: #606060;
+	display: inline;
+	margin-left: 14px;
+
+}
+
+.public-footer .footer-item1 a{
+	color: #606060;
+	display: inline;
+	margin-left: 14px;
+
+}
+
+.public-footer .footer-item{
+	text-align: center;
+}
+
+.public-footer .footer-item1{
+	text-align: center;
+}
+
+.public-footer .footer-wrap .footer-pra{
+	text-align: center;
+}
+
+.public-footer .footer-item{
+	padding-top:30px;
+}
+
+.public-footer .footer-item a:hover{
+	color: #a55301;
+}
+
+.public-footer .footer-item1 a:hover{
+	color: #a55301;
+}

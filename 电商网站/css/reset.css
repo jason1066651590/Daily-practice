@@ -1,0 +1,30 @@
+body,div,ol,ul,li,form,a,p,h1,input,textarea{
+	margin: 0;
+	padding: 0;
+	font-family: "Microsoft YaHei" ! important;
+}
+
+ol,ul,li{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+	display: block;
+}
+
+img{
+	border: none;
+	display: block;
+}
+
+.clearfloat{
+	zoom: 1;
+}
+.clearfloat:after{
+	content: "";
+	height: 0;
+	visibility: hidden;
+	display: block;
+	clear: both;
+}
